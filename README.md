@@ -1,8 +1,8 @@
 # security_advisories
 
-## License
+This repository contains vulnerability information that I (sl91994) have discovered and reported (or provided patches for).
 
-This project is dual-licensed under:
+## License
 
 - MIT License ([LICENSE-MIT](./LICENSE-MIT))
 - Apache License 2.0 ([LICENSE-APACHE](./LICENSE-APACHE))
