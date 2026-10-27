@@ -15,9 +15,9 @@ patched: 9.0.0
 date: 2026-08-22
 ---
 
-> [!info]
-> この脆弱性は `v9.0.0` で修正されました．
-> [Arbitrary file write outside the extraction directory, because ZipArchive::extract validates symlink targets lexically. (The defense against CVE-2025-29787 was broken in v7.2.0) · Advisory · zip-rs/zip2 · GitHub](https://github.com/zip-rs/zip2/security/advisories/GHSA-hjqx-j4rw-g7xv)
+> - この脆弱性は `v9.0.0` で修正されました．
+> - [Arbitrary file write outside the extraction directory, because ZipArchive::extract validates symlink targets lexically. (The defense against CVE-2025-29787 was broken in v7.2.0) · Advisory · zip-rs/zip2 · GitHub](https://github.com/zip-rs/zip2/security/advisories/GHSA-hjqx-j4rw-g7xv)
+> - [CVE-2026-115908](https://nvd.nist.gov/vuln/detail/cve-2026-115908) が割り当てられています．
 
 ### Summary
 
